@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects where I can utilize my backend and Database skills**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/dev-himanshu-karnwal](https://github.com/dev-himanshu-karnwal)
+- 👨‍💻 Most of my projects are available as [Github Repositories](https://github.com/dev-himanshu-karnwal)
 
 - 💬 Ask me about **API development, Web development**
 
