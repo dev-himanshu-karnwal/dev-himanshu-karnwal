@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **full stack projects where I can utilize my backend and Database skills**
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated GIF" align="right" height="200"/>
+
 - 👨‍💻 Most of my projects are available as [Github Repositories](https://github.com/dev-himanshu-karnwal)
 
 - 💬 Ask me about **API development, Web development**
@@ -102,8 +104,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-himanshu-karnwal&show_icons=true&locale=en&layout=compact" alt="dev-himanshu-karnwal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-karnwal&" alt="dev-himanshu-karnwal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-karnwal&show_icons=true&locale=en" alt="dev-himanshu-karnwal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-himanshu-karnwal&show_icons=true&locale=en&layout=compact" alt="dev-himanshu-karnwal" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-karnwal&" alt="dev-himanshu-karnwal" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-karnwal&show_icons=true&locale=en" alt="dev-himanshu-karnwal" /></p>
