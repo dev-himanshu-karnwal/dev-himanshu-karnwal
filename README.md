@@ -9,7 +9,7 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated GIF" align="right" height="200"/>
 
-- 👨‍💻 Most of my projects are available as [Github Repositories](https://github.com/dev-himanshu-karnwal)
+- 👨‍💻 Most of my projects are available as [Github Repositories](https://github.com/dev-himanshu-karnwal?tab=repositories)
 
 - 💬 Ask me about **API development, Web development**
 
