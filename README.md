@@ -1,4 +1,4 @@
-<img src="./Github Banner.png" alt="Github Banner" />
+<img src="./Banner.png" alt="Github Banner" />
 
 <h1 align="center">Hello, I'm Himanshu</h1>
 <h3 align="center">A passionate Full Stack Web developer specializing in <b>Backend and Databases</b>🖥️</h3>
