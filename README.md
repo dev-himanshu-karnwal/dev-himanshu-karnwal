@@ -49,7 +49,27 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
+  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxiFZo8hp7oqoftdM8UCkftr2ZDLY0C25LA&s" alt="React JS" width="40" height="40" />
+  </a>
 
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&s" alt="Redux JS" width="40" height="40" />
+  </a>
+
+  <a href="https://tanstack.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJ4lRWhlJfPollWG4GaxPvkTaQZ_6VTZ6Eg&s" alt="React Query" width="40" height="40" />
+  </a>
+  
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://yt3.googleusercontent.com/NuBWxGpdF0YzNSr7x_Tc8EEFXbQoHc0Xf9rU_ehxFPRikw8YPN886HltWeMDihKU8v5SeKFI3B4=s900-c-k-c0x00ffffff-no-rj" alt="Supabase" width="40" height="40" />
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" alt="Firebase" width="40" height="40" />
+  </a>
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
