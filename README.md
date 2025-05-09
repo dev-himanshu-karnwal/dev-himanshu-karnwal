@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Himanshu</h1>
 <h3 align="center">A passionate Full Stack Web developer specializing in <b>Backend and Databases</b>🖥️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-himanshu-karnwal&label=Profile%20views&color=0e75b6&style=flat" alt="dev-himanshu-karnwal" /> </p>
-
 - 👯 I’m looking to collaborate on **full stack projects where I can utilize my backend and Database skills**
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated GIF" align="right" height="200"/>
