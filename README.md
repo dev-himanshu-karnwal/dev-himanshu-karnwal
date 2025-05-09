@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Himanshu</h1>
-<h3 align="center">A passionate Full Stack Web developer specializing in <b>Backend and Databases</b>🖥️</h3>
+<h3 align="center">A passionate Full Stack Software Engineer🖥️</h3>
 
 - 👯 I’m looking to collaborate on **full stack projects where I can utilize my backend and Database skills**
 
