@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Himanshu</h1>
 <h3 align="center">A passionate Full Stack Software Engineer🖥️</h3>
 
-- 👯 I’m looking to collaborate on **full stack projects where I can utilize my backend and Database skills**
+- 👯 I’m looking to collaborate on **full stack projects where I can utilize my expertise**
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated GIF" align="right" height="200"/>
 
