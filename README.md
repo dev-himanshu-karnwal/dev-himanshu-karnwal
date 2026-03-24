@@ -1,126 +1,66 @@
-<h1 align="center">Hello, I'm Himanshu</h1>
-<h3 align="center">A passionate Full Stack Software Engineer🖥️</h3>
+<h1 align="center">Himanshu Karnwal</h1>
+<h3 align="center">Full Stack Engineer | Backend Systems | Scalable Architecture</h3>
 
-- 👯 I’m looking to collaborate on **full stack projects where I can utilize my expertise**
+---
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated GIF" align="right" height="200"/>
+## About Me
 
-- 👨‍💻 Most of my projects are available as [Github Repositories](https://github.com/dev-himanshu-karnwal?tab=repositories)
+I design and build scalable backend systems and full-stack applications with a strong focus on architecture, performance, and real-world usability.
 
-- 💬 Ask me about **API development, Web development**
+- Backend-focused engineer with production-oriented mindset
+- Strong in system design, API architecture, and authentication systems
+- Operating at the intersection of **engineering, product thinking, and execution**
+- Comfortable taking ownership as **Tech Lead / Project Manager**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" height="40" />
-  </a>
+## Domains & Industry Exposure
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" height="40" />
-  </a>
+- **HRTech & Workforce Platforms**  
+  Role-based systems, job platforms, employee workflows, access control
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" height="40" />
-  </a>
+- **SaaS & Admin Systems**  
+  Multi-role dashboards, data management systems, scalable backend services
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" title="Tailwind Css" alt="Tailwind Css" height="40" />
-  </a>
+- **Automation & Browser-Based Systems**  
+  Chrome extensions, workflow automation, DOM-level interaction systems
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" height="40" />
-  </a>
+- **Hospitality & Ordering Systems**  
+  Real-time ordering flows, QR-based systems, operational dashboards
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" height="40" />
-  </a>
-  
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxiFZo8hp7oqoftdM8UCkftr2ZDLY0C25LA&s" title="React JS" alt="React JS" height="40" />
-  </a>
-  
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qAb3e9auwnxJ1RmaypTdsieWkl2wb4u3cg&s" title="Angular JS" alt="Angular JS" height="40" />
-  </a>
+---
 
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&s" title="Redux" alt="Redux JS" height="40" />
-  </a>
+## Core Technical Strength
 
-  <a href="https://tanstack.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJ4lRWhlJfPollWG4GaxPvkTaQZ_6VTZ6Eg&s" title="React Query" alt="React Query" height="40" />
-  </a>
-  
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://yt3.googleusercontent.com/NuBWxGpdF0YzNSr7x_Tc8EEFXbQoHc0Xf9rU_ehxFPRikw8YPN886HltWeMDihKU8v5SeKFI3B4=s900-c-k-c0x00ffffff-no-rj" title="Supabase" alt="Supabase" height="40" />
-  </a>
+- **Backend Engineering:** Node.js, NestJS, Express, Flask
+- **Frontend Systems:** React, Next.js, Angular  
+- **Database Systems:** MongoDB, PostgreSQL, MySQL, SQLite  
+- **System Design:** RBAC, Auth Systems, Scalable APIs, LLD, Design Patterns  
+- **Automation:** Chrome Extensions, Bots, Web Scraping  
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" title="Firebase" alt="Firebase" height="40" />
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" height="40" />
-  </a>
+---
 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express" alt="express" height="40" />
-  </a>
+## Engineering Focus
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" title="flask" alt="flask" height="40" />
-  </a>
+- Designing **secure authentication systems**  
+  (multi-device sessions, OTP flows, access control)
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" height="40" />
-  </a>
+- Building **scalable backend architectures**  
+  (modular systems, clean abstractions, maintainability)
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" height="40" />
-  </a>
+- Improving **system reliability & performance**  
+  (efficient queries, caching strategies, optimized APIs)
 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" height="40" />
-  </a>
+---
 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="sqlite" alt="sqlite" height="40" />
-  </a>
+## GitHub Stats
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="c" alt="c" height="40" />
-  </a>
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" height="40" />
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" height="40" />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" height="40" />
-  </a>
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" height="40" />
-  </a>
-
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" title="github" alt="github" height="40" />
-  </a>
-
-  <a target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iP3xhW_gZe6Ltd9gz5byCaOtWq2EGYz21Q&s" title="Chrome Extension Development" alt="Chrome Extension Development" height="40" />
-  </a>  
-
-  <a target="_blank" rel="noreferrer">
-    <img src="https://flowxo.com/wp-content/uploads/2021/03/Telegram-Logo-512x512.png" title="Telegram Bot Development" alt="Telegram Bot Development" height="40" />
-  </a>
-  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-karnwal&theme=dark" />
 </p>
 
+---
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-karnwal&theme=dark" alt="GitHub Streak" />
+## Connect
+
+- GitHub: https://github.com/dev-himanshu-karnwal
