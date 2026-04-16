@@ -59,10 +59,6 @@ I design and build scalable backend systems and full-stack applications with a s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-karnwal&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-himanshu-karnwal&show_icons=true&theme=merko" />
-</p>
-
 ---
 
 ## Connect
